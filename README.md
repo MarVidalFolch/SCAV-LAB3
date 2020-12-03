@@ -20,7 +20,7 @@ In all options, the user is able to choose the original file from which the stre
 
 ### Exercise 3
 ---
-
+In this exercise, we let the user select any container. Then, for the given container, the python scripts outputs the different broadcasting standards that fit with it. In order to do it, we use ffprobe to get the codec names of the container. Then, we store in different arrays the video and audio codec names. Then, we check if those names are in the different type of brodacasting standards. If so, we append the broadcasting standards in a new array. Finally, we return this array or an ERROR (if it hasn't fitted any). In ex3 folder you can find the script and a screenshot of the results of an example done. 
 
 ### Exercise 4
 ---
