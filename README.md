@@ -24,7 +24,7 @@ In this exercise, we let the user select any container. Then, for the given cont
 
 ### Exercise 4
 ---
-
+The goal of this exercise is to create a python testing script which generates containers to launch against exercise 3. In order to generate them we will use exercise 2. So, to use ex2 and ex3 to implement the script, we have used them as modules and imported them to ex4.py in order to use their functions. Doing so, we have been able to combine the exercises and obtain the desired results. We have done a text and obtained the same result that we had in ex2 and 3. In the ex4 folder you can find the python script implemented. 
 ### Exercise 5
 ---
- 
+In this exercise we have created a new python script to integrate all previous exercises in a class. 
